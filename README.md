@@ -1,0 +1,3 @@
+# Matching_prediction
+- https://www.kaggle.com/competitions/cisc-873-dm-w23-a2/overview
+- predict the outcome of a specific speed dating session based on the profile of two people, so we can implement a recommendation system to better match people in speed dating events. We did have another online dating dataset (Tinder-like) but that one is super dirty which requires extensive cleaning, so we do this one instead. This is a binary classification task. Given a data sample (information about the dating session), we are going to predict the probability (0-1, float) that the dating session will lead to a successful match.
